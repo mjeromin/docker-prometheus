@@ -1,6 +1,8 @@
 # docker-prometheus
 Docker image for [Prometheus](https://prometheus.io) built from source. It is based on the official [prometheus/prometheus](https://github.com/prometheus/prometheus) Dockerfile.
 
+- `mjeromin/prometheus`: [![](https://images.microbadger.com/badges/version/mjeromin/prometheus:v2.3.2-alpine3.8.svg)](https://microbadger.com/images/mjeromin/prometheus:v2.3.2-alpine3.8 "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/mjeromin/prometheus:v2.3.2-alpine3.8.svg)](https://microbadger.com/images/mjeromin/prometheus:v2.3.2-alpine3.8 "Get your own image badge on microbadger.com")
+
 ## Usage
 You can build a docker image with
 ```
